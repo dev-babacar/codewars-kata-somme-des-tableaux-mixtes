@@ -1,0 +1,4 @@
+Étant donné un tableau d'entiers sous forme de chaînes de caractères et de nombres,
+renvoyez la somme des valeurs du tableau comme si toutes étaient des nombres.
+
+Retournez votre réponse sous forme de nombre.
